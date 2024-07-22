@@ -24,8 +24,8 @@ The management console built with Angular connects to the Django backend via RES
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/alchem-coding-challenge.git
-    cd alchem-coding-challenge
+    git clone https://github.com/yourusername/django-angular-api-db-management-console.git
+    cd django-angular-api-db-management-console
     ```
 
 2. **Backend Setup**
