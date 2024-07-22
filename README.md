@@ -9,6 +9,12 @@ The management console connects to the Django backend via REST API, performing G
 - **Management Console**: Built a front-end management console using Angular, that creates, GET, POST, and DELETE requests to manage event data, within the console.
 - **Testing**: Conducted thorough testing on both the front-end and back-end to ensure seamless operation.
 
+### Ways of thinking
+- We needed a management console to visualize event data on the front-end.
+- To visualize this data, we required a storage solution and an API to connect to it.
+- After setting up the database and API with Django, we could proceed with developing the front-end console to display the event data.
+- From the management console, we can simulate POST and DELETE requests to manage the event data as needed.
+
 ### Dependencies
 - [Python 3.x](https://www.python.org/)
 - [Node.js](https://nodejs.org/en)
