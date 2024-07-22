@@ -43,7 +43,11 @@ The management console built with Angular connects to the Django backend via RES
     ```bash
     python manage.py runserver
     ```
-
+    - To Check that the server is up and running you can navigate to;
+    ```
+    http://localhost:8000/api/eventdata/
+    ```
+    - This will show you the data already stored in the database.
 3. **Frontend Setup**
     - Navigate to the management console directory
     ```bash
@@ -55,6 +59,7 @@ The management console built with Angular connects to the Django backend via RES
     ng build
     ng serve
     ```
+    
 
 ### Usage
 Once both the front end and back end are running, you can navigate to:
