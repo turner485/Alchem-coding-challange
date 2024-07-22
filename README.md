@@ -1,7 +1,7 @@
 # Alchem Coding Challenge
 
 ### Functionality
-The management console connects to the Django backend via REST API, performing GET, POST, and DELETE requests to manage event data in the SQLite database.
+The management console built with Angular connects to the Django backend via REST API, performing GET, POST, and DELETE requests to manage event data in the SQLite database.
 
 ### Project Overview
 - **Database**: Implemented a SQLite database integrated with Django, utilizing Django models to create the necessary tables.
